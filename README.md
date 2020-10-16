@@ -1,4 +1,4 @@
-Part 6 of BotBE
+Part 7 of BotBE
 
 Train a model that can take a single image as input, and output an animated version of that image. 
 
